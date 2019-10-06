@@ -5,6 +5,8 @@ My game for Ludum Dare 45  (https://ldjam.com/)
 
 You are a detective tasked with finding evidence that will lead to the culprit of a heinous crime against humanity. The evidence is scattered through 9 levels. 
 
+![Game image](ludumdare45.gif)
+
 - Esc will exit the game at any point
 - Ctrl+F goes full screen
 - Space moves the non-gameplay screens faster
