@@ -5,6 +5,9 @@ My game for Ludum Dare 45  (https://ldjam.com/)
 
 You are a detective tasked with finding evidence that will lead to the culprit of a heinous crime against humanity. The evidence is scattered through 9 levels. 
 
+Get the binaries here... 
+https://github.com/mbreckon/LudumDare45/files/3694773/LudumDare45-DI.Game.zip
+
 ![Game image](ludumdare45.gif)
 
 - Esc will exit the game at any point
